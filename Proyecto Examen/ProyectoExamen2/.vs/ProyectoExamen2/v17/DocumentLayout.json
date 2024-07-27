@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\database\\proyectoexamencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\database\\proyectoexamencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\dto\\clients\\clientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\dto\\clients\\clientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\services\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\services\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|c:\\users\\vchda\\desktop\\u\\poo\\examenpoo-u2\\proyecto examen\\proyectoexamen2\\proyectoexamen2\\database\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23055207-00F8-4652-9A92-795A04A3B9A8}|ProyectoExamen2\\ProyectoExamen2.csproj|solutionrelative:proyectoexamen2\\database\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProyectoExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Database\\ProyectoExamenContext.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Database\\ProyectoExamenContext.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Database\\ProyectoExamenContext.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Database\\ProyectoExamenContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:28:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsDto.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Dto\\Clients\\ClientsDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Dto\\Clients\\ClientsDto.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Dto\\Clients\\ClientsDto.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Dto\\Clients\\ClientsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:17:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\ClientsService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Services\\ClientsService.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\ClientsService.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Services\\ClientsService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:16:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:16:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Services\\Interfaces\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Services\\Interfaces\\ILoanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:05:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Services\\LoanService.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Services\\LoanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:02:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Database\\Entities\\ClienteEntity.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen2\\Database\\Entities\\ClienteEntity.cs",
+              "ToolTip": "C:\\Users\\vchda\\Desktop\\U\\POO\\ExamenPOO-U2\\Proyecto Examen\\ProyectoExamen2\\ProyectoExamen2\\Database\\Entities\\ClienteEntity.cs",
+              "RelativeToolTip": "ProyectoExamen2\\Database\\Entities\\ClienteEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:48:15.577Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
