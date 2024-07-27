@@ -1,9 +1,11 @@
 ﻿using ProyectoExamen2.Dto.Amortizations;
+using ProyectoExamen2.Dto.Loan;
 
 namespace ProyectoExamen2.Services.Interfaces
 {
     public interface ILoanService
     {
-        List<AmortizationDto> GenerarPlanAmortizacion(decimal monto, decimal tasaInteres, int plazo, decimal cuota);
+        Task<LoanResponseDto> CreateLoanAsync(LoanCreateDto loanCreateDto);
+        Task<LoanDetailsDto> GetPayPlansByClientAsync(Guid clientId);
     }
 }

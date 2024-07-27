@@ -1,0 +1,18 @@
+meta {
+  name: Create Client
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://localhost:7248/api/clients
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Pancracio Panchame",
+    "identityNumber": "0401199912345"
+  }
+}

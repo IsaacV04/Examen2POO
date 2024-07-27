@@ -1,0 +1,23 @@
+meta {
+  name: Create Loan
+  type: http
+  seq: 1
+}
+
+post {
+  url: https://localhost:7248/api/loans
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Pacracio Panchame",
+    "identityNumber": "string",
+    "amount": 10000,
+    "interestRate": 24,
+    "term": 34,
+    "disbursementDate": "2024-07-27T12:37:24.829Z",
+    "firstPaymentData": "2024-07-27T12:37:24.829Z"
+  }
+}

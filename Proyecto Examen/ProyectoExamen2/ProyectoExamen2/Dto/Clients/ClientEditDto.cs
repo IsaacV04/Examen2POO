@@ -1,6 +1,6 @@
 ﻿namespace ProyectoExamen2.Dto.Clients
 {
-    public class ClientEditDto
+    public class ClientEditDto : ClientCreateDto
     {
     }
 }

@@ -11,11 +11,15 @@ namespace ProyectoExamen2.Database.Entities
         [Required(ErrorMessage = "El {0} del cliente es requerido.")]
         [StringLength(10)]
         [Column("name")]
-        public string Name { get; set; }
+        public required string Name { get; set; }
 
         [Required(ErrorMessage = "El {0} del cliente es requerido")]
         [Column ("id")]
-        public Guid idNumber { get; set; }
+        public Guid Id { get; set; }
+
+        [Column("identity_number")]
+        public string IdentityNumber { get; set; }
+        public virtual ICollection<LoanEntity> Loan { get; set; }
     }
 }
 
